@@ -27,3 +27,6 @@ Features Demonstrated:
 ✅ Document splitting + retrieval pipeline
 
 Tools & Libraries: LangChain 0.3.25, Ollama, FAISS, OpenAI API, sentence‑transformers, Python 3.11+, Jupyter
+
+I HAD LEARNT THIS FROM LETS UPGRADE'S 2 DAYS BOOTCAMP EXPLORE IT FOR EXTRA KNOWLEDGE..
+THANK YOU..
